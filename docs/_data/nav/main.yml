@@ -101,6 +101,18 @@
       url: /spec/v1.2-rc1/assessing-source-systems
       description: Guidelines for assessing source control system security.
 
+ - title: Dependency Track
+    description: >
+      These pages describe the dependency track's security levels and requirements.
+      If you want to achieve a particular level of the SLSA depdency track these
+      are the requirements you'll need to meet.
+    children:
+
+    - title: Producing source
+      url: /spec/v1.2-rc1/source-requirements
+      description: Overview of the Source track
+
+
   - title: Cross Track Information
     description: These pages describe information that crosses track boundaries.
     children:
