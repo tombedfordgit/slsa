@@ -81,6 +81,17 @@
     - title: Assessing build platforms
       url: /spec/v1.2-rc1/assessing-build-platforms
       description: Guidelines for securing SLSA Build L3+ builders, intended for platform implementers
+  
+  - title: Dependency Track
+    description: >
+      This pages describes the dependency track's security levels and requirements.
+      If you want to achieve a particular level of the SLSA dependency track these
+      are the requirements you'll need to meet.
+    children:
+    - title: Consuming dependencies  
+      url: /spec/draft/dependency-track
+      description: Overview of the Dependency track
+
 
   - title: Source Track
     description: >
